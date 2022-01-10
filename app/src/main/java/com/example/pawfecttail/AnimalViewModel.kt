@@ -64,13 +64,13 @@ class AnimalViewModel(private val animalDao:AnimalDao): ViewModel() {
         animalId: Int,
         name: String,
         city: String,
-        time: String,
+        contact: String,
         desc: String): Animal {
         return Animal(
             id = animalId,
             yourName = name,
             yourCity = city,
-            contact = time,
+            contact = contact,
             animalDesc = desc
         )
     }

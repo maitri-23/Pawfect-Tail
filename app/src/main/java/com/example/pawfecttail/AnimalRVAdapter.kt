@@ -34,6 +34,7 @@ class AnimalRVAdapter (private val onAnimalClicked: (Animal) -> Unit) :
         fun bind(animal: Animal){
             binding.name.text = animal.yourName
             binding.city.text = animal.yourCity
+            binding.desc.text = animal.animalDesc
             binding.contact.text = animal.contact
         }
         }

@@ -39,8 +39,8 @@ class AnimalDetailFragment : Fragment() {
         binding.apply {
             name.text = animal.yourName
             city.text = animal.yourCity
-            desc.text = animal.animalDesc
             contact.text = animal.contact
+            desc.text = animal.animalDesc
             deleteItem.setOnClickListener { showConfirmationDialog() }
             editItem.setOnClickListener { editAnimal() }
         }
