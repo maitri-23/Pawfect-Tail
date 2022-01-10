@@ -10,6 +10,12 @@ We see a lot of stray animals and cruelty against them. But there are some kind 
 
 This project proposes an "Animal Welfare App" where animal lover can post an update to help stray and abandoned animals by providing their name and contact information so that any person interested in helping or adopting can contact the person who put up that information. This application uses database to store the details about the person, city he/she lives in, contact information like mail/phone no. and a brief and precise description what help our paw friends needs.The scope is to extend the application to use it for a bigger social cause.
 
+![im1](AppSS/im1.png)
+![im2](AppSS/im1.png)
+![im3](AppSS/im1.png)
+![im4](AppSS/im1.png)
+![im5](AppSS/im1.png)
+
 <b> Functionality & Concepts used : </b>
 
 This app is intutive,user friendly and has interactive design to make it easier for people to get access and post their update regarding the furry friends. The app built using android studio has following android concepts used to get the features:
@@ -22,6 +28,6 @@ This app is intutive,user friendly and has interactive design to make it easier 
 
 <b> Application Link & Future Scope : </b>
 
-You can access the app here: 
+You can access the app here: https://github.com/maitri-23/Pawfect-Tail.git
 
 The app can be further developed and published after, testing and checking its functionality, the app can be developed to store data on the server istead of local and upload images to the server so more people can connect. We can also add features for payment and app notifications so financial aid needed can be provided via app only and rescue operations can be carried out in time. 
