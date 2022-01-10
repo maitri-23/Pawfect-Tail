@@ -29,5 +29,6 @@ This app is intutive,user friendly and has interactive design to make it easier 
 <b> Application Link & Future Scope : </b>
 
 You can access the app here: https://github.com/maitri-23/Pawfect-Tail.git
+Apk file: https://drive.google.com/file/d/1MxBQ4cu0xDQhYyAAFPWoiHvWH8LCCcip/view?usp=sharing
 
 The app can be further developed and published after, testing and checking its functionality, the app can be developed to store data on the server istead of local and upload images to the server so more people can connect. We can also add features for payment and app notifications so financial aid needed can be provided via app only and rescue operations can be carried out in time. 
