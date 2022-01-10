@@ -10,11 +10,21 @@ We see a lot of stray animals and cruelty against them. But there are some kind 
 
 This project proposes an "Animal Welfare App" where animal lover can post an update to help stray and abandoned animals by providing their name and contact information so that any person interested in helping or adopting can contact the person who put up that information. This application uses database to store the details about the person, city he/she lives in, contact information like mail/phone no. and a brief and precise description what help our paw friends needs.The scope is to extend the application to use it for a bigger social cause.
 
-![im1](AppSS/Im1.png)
+<p float="left">
+<img src="AppSS/Im1.png" width=30%> 
+<img src="AppSS/Im2.png" width=30.4%>
+<img src="AppSS/Im3.png" width=31.7%>
+</p>
+<p float="left">
+<img src="AppSS/Im4.png" width=30%>
+<img src="AppSS/Im5.png" width=30.5%>
+</p>
+
+<!-- ![im1](AppSS/Im1.png)
 ![im2](AppSS/Im2.png)
 ![im3](AppSS/Im3.png)
 ![im4](AppSS/Im4.png)
-![im5](AppSS/Im5.png)
+![im5](AppSS/Im5.png) -->
 
 <b> Functionality & Concepts used : </b>
 
