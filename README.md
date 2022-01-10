@@ -20,12 +20,6 @@ This project proposes an "Animal Welfare App" where animal lover can post an upd
 <img src="AppSS/Im5.png" width=30.5%>
 </p>
 
-<!-- ![im1](AppSS/Im1.png)
-![im2](AppSS/Im2.png)
-![im3](AppSS/Im3.png)
-![im4](AppSS/Im4.png)
-![im5](AppSS/Im5.png) -->
-
 <b> Functionality & Concepts used : </b>
 
 This app is intutive,user friendly and has interactive design to make it easier for people to get access and post their update regarding the furry friends. The app built using android studio has following android concepts used to get the features:
@@ -38,7 +32,7 @@ This app is intutive,user friendly and has interactive design to make it easier 
 
 <b> Application Link & Future Scope : </b>
 
-You can access the app here: https://github.com/maitri-23/Pawfect-Tail.git
+You can access the app here: https://github.com/maitri-23/Pawfect-Tail.git <br>
 Apk file: https://drive.google.com/file/d/1MxBQ4cu0xDQhYyAAFPWoiHvWH8LCCcip/view?usp=sharing
 
 The app can be further developed and published after, testing and checking its functionality, the app can be developed to store data on the server istead of local and upload images to the server so more people can connect. We can also add features for payment and app notifications so financial aid needed can be provided via app only and rescue operations can be carried out in time. 
